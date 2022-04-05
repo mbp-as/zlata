@@ -1,2 +1,0 @@
-# zlata
-GitHub Pages
