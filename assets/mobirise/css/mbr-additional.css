@@ -1055,6 +1055,10 @@ a {
 .cid-t2dECePJch {
   background-image: linear-gradient(0deg, #ffffff 10%, #000000 100%) !important;
 }
+.cid-t2dECePJch .mbr-text,
+.cid-t2dECePJch .mbr-section-btn {
+  color: #ffe161;
+}
 .cid-t2dERSSA1P {
   padding-top: 6rem;
   padding-bottom: 6rem;
