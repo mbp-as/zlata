@@ -2162,6 +2162,13 @@ a {
     left: -1rem;
   }
 }
-.cid-t2ltWCFGLL {
-  background-image: url("../../../assets/images/background10.jpg");
+.cid-t2lvOqGgEF {
+  background-color: #ffffff;
+}
+.cid-t2lvOqGgEF .mbr-section-title {
+  color: #000000;
+}
+.cid-t2lvOqGgEF .mbr-text,
+.cid-t2lvOqGgEF .mbr-section-btn {
+  color: #bbbbbb;
 }
